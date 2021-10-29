@@ -517,3 +517,13 @@ img {
         font-size: 20px;
       }
     }
+
+
+  .container>a{
+    color: black !important;
+  }
+
+  .container .img{
+    width: 80%;
+    margin: 20px auto;
+  }
